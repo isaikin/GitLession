@@ -1,1 +1,2 @@
-Hello word! Conflict !!!
+Hello word.
+Hello word! Conflict 
